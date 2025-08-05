@@ -1,0 +1,12 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar Node
+node_modules/
+
+# Ignorar archivos del entorno
+.env
